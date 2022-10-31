@@ -76,21 +76,8 @@
             "email": "yadav Nair@fadel.co",
             "gender": "male",
             "status": "active"
-        },
-        
-         {
-            "id": 4182,
-            "name": "team",
-            "email": "yadav Nair@fadel.co",
-            "gender": "male",
-            "status": "active"
-        },
-         {
-            "id": 4181,
-            "name": "team",
-            "email": "yadav Nair@fadel.co",
-            "gender": "male",
-            "status": "active"
         }
+        
+
     ]
 }
